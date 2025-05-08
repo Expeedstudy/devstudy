@@ -22,3 +22,7 @@ docker build -t devstudy .
 
 # Run the container
 docker run -p 3000:3000 devstudy
+
+
+## 🌐 Live Demo
+🔗 [View App on Render](https://devstudy.onrender.com/)
