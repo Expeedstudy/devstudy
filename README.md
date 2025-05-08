@@ -3,7 +3,7 @@
 A simple web app built to understand Git, GitHub workflows, and basic DevOps principles.
 
 ## 🚀 Features
-- Basic web app (Node.js / Python)
+- Basic web app (Node.js )
 - Source control with Git
 - CI/CD setup with GitHub Actions
 - Docker containerization
